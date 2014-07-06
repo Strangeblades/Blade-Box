@@ -1,12 +1,6 @@
-a {
-text-decoration: none;
-}
-li {
-color: #ff0000;
-}
 img {
-	width:100px;
-	height:100px;
+	width:200px;
+	height:200px;
 }
 table, td {
 	border: 1px #70b8ff dashed;
